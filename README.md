@@ -1,3 +1,5 @@
+# Logitic regression for spam detection
+
 ```python
 import matplotlib.pyplot as plt
 import numpy as np
